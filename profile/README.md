@@ -66,8 +66,14 @@
 
 ## 🖼 Screenshots
 
+<img src="https://github.com/kihyaa/.github/assets/86856676/3cd89e64-1c19-48e5-8dbe-89b97f809055" width="800px" />
+<img src="https://github.com/kihyaa/.github/assets/86856676/15064224-e881-4dd3-badc-e80fce73fe3f" width="800px" />
+
 <img src="https://github.com/kihyaa/.github/assets/86856676/a65f6369-6e20-4e3c-b747-f39c8d94953d" width="800px" />
 <img src="https://github.com/kihyaa/.github/assets/86856676/3d85e511-007e-451d-8dcd-28282d7e68bd" width="800px" />
+
+<img src="https://github.com/kihyaa/.github/assets/86856676/f48331f4-28fa-44b1-8496-1c712329da63" width="800px" />
+
 <img src="https://github.com/kihyaa/.github/assets/86856676/5519da22-6721-427e-b791-9bf61b8773ec" width="800px" />
 <img src="https://github.com/kihyaa/.github/assets/86856676/7de8ae42-18a1-4eb5-962f-599c855b284d" width="300px" />
 

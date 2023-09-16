@@ -1,4 +1,6 @@
 # Ei planner
+<a href="https://hjnote.notion.site/04b93b3c7edd43e8ba37d9f8c3fa05d4?pvs=4"><img src="https://img.shields.io/badge/Project Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
+
 
 [사이트 바로가기](https://eiplanner.com)
 

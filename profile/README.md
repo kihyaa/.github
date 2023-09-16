@@ -1,7 +1,5 @@
 # Ei planner
 
-<a href="https://outgoing-gravity-13d.notion.site/11-f49499388b444edcb115ceb9929ee8ea?pvs=4"><img src="https://img.shields.io/badge/Project Notion-000000?style=flat&logo=Notion&logoColor=ffffff"/></a>
-
 [사이트 바로가기](https://eiplanner.com)
 
 ## 👬 kihyaa 팀 소개
@@ -62,24 +60,27 @@
 
 ## 📒 프로젝트 소개
 
-아이젠하워 매트릭스를 적용하여 유용하고, 사용하기 편한 플래너
+아이젠하워 매트릭스를 적용한 유용하고, 사용하기 편한 우선순위 플래너
+
    <br/><br/>
 
 ## 🖼 Screenshots
 
+<img src="https://github.com/kihyaa/.github/assets/86856676/a65f6369-6e20-4e3c-b747-f39c8d94953d" width="800px" />
+<img src="https://github.com/kihyaa/.github/assets/86856676/3d85e511-007e-451d-8dcd-28282d7e68bd" width="800px" />
+<img src="https://github.com/kihyaa/.github/assets/86856676/5519da22-6721-427e-b791-9bf61b8773ec" width="800px" />
+<img src="https://github.com/kihyaa/.github/assets/86856676/7de8ae42-18a1-4eb5-962f-599c855b284d" width="300px" />
 
 
-<br/>
+<br/><br/>
 
 ## 📐 Architecture
-
+<img src="https://github.com/kihyaa/.github/assets/86856676/27bcd70d-d452-4783-b293-cc95ffdd8c7e" width="800px" />
 
 
 <br/>
 <br/>
 
-## 📖 E-R Diagram
-
-
-
+## 🖼 API 명세서
+[사이트 바로가기](https://hjnote.notion.site/API-6119a9865f6a475bbb448be854563f54?pvs=4)
 
